@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello Welcome To My Profile🤓
+
+![Aryasatya](github-header-image.png)
 
 <!--
 **Aryasatya2356/Aryasatya2356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'am a student at Banyuwangi State Polytechnic
