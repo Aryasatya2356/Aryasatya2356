@@ -1,3 +1,5 @@
+![Aryasatya2356](ar.png)
+
 # 💫 About Me:
 I'am a student at Banyuwangi State Polytechnic<br><br>“There is nothing impossible to him who will try.”<br>― Alexander the Great
 
